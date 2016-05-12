@@ -94,6 +94,11 @@ header {
 	}
 }
 
+.notice, .alert {
+  text-align: center;
+  padding: 1em 0;
+}
+
 footer {
 	background: $dark_gray;
 	width: 100%;
